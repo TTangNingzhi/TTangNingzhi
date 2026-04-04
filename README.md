@@ -4,6 +4,7 @@ I'm a Ph.D. candidate in Computer Science at the University of Notre Dame, advis
 
 - 🛠️ I'm a **full-stack software engineer** and **AI researcher**. I build interactive tools and conduct user studies to explore how developers understand, modify, and collaborate with AI-generated code.
 - 💼 This summer, I'm interning at **Google** as a UXE intern, working on AI agents for developer tools.
+- 🤖 I'm actively building my technical foundation in **LLMs** and **AI coding agents** from scratch — always excited to discuss what's happening on the frontier.
 - 🚀 Outside of research, I'm learning actively about finance and entrepreneurship, particularly how to **amplify human capabilities with AI** in the AGI era. Always happy to chat about wild startup ideas. 💡
 - 🌱 I'm also curious about philosophy and theology as forms of spiritual cultivation in modern life—especially how their ideas can be embodied in practice, such as in reflections on *["what makes a meaningful life?"](https://godandgoodlife.nd.edu/topics/)*.
 - 🎈 Fun fact: I'm obsessed with furry companions like 🐱 British Shorthairs / Ragdolls and 🐶 Mini Aussies / Bernese Mountain Dogs.
