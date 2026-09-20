@@ -12,4 +12,22 @@ I'm a Ph.D. candidate in Computer Science at the University of Notre Dame, advis
 📬 Always happy to connect with engineers, researchers, and builders — reach me via  
 🌐 [nztang.com](https://www.nztang.com) | 📧 ntang@nd.edu (school) | 📮 ningzhitang2001@gmail.com (personal)
 
+### Featured Projects
+
+- [TTangNingzhi/NaturalEdit](https://github.com/TTangNingzhi/NaturalEdit)
+- [codegrits/CodeGRITS](https://github.com/codegrits/CodeGRITS)
+- [TTangNingzhi/WebSight](https://github.com/TTangNingzhi/WebSight)
+- [TTangNingzhi/vibe-coding-scraper](https://github.com/TTangNingzhi/vibe-coding-scraper)
+- [TTangNingzhi/PASTA](https://github.com/TTangNingzhi/PASTA)
+- [TTangNingzhi/DocMap](https://github.com/TTangNingzhi/DocMap)
+- [AgenticHealthAI/Awesome-AI-Agents-for-Healthcare](https://github.com/AgenticHealthAI/Awesome-AI-Agents-for-Healthcare)
+- [TTangNingzhi/sandwichtest-code-completion](https://github.com/TTangNingzhi/sandwichtest-code-completion)
+
+### Replication Packages
+
+- [ND-SaNDwichLAB/coding-agent-misalignment](https://github.com/ND-SaNDwichLAB/coding-agent-misalignment)
+- [ND-SaNDwichLAB/empirical-conversational-programming](https://github.com/ND-SaNDwichLAB/empirical-conversational-programming)
+- [ND-SaNDwichLAB/naturaledit-replication-package](https://github.com/ND-SaNDwichLAB/naturaledit-replication-package)
+- [ND-SaNDwichLAB/direct-vs-summary-study](https://github.com/ND-SaNDwichLAB/direct-vs-summary-study)
+
 ![Profile Views](https://komarev.com/ghpvc/?username=TTangNingzhi&label=Profile%20Views)
